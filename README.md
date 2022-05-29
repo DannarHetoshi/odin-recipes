@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to my first Odin Git.  Odin-Recipes.  Hopefully you'll see dozens more commits as I blaze through the HTML, CSS, and JavaScript pathways of The Odin Project!  If you are coming here from FAANG, welcome to my re-committment project to Front End Engineering.
